@@ -1,6 +1,6 @@
 # Ready-to-run gene co-expression and K-core analysis
 
-This project creates the same **type** of network shown in Figure 4 of:
+This project creates the same** **type**** of network shown in Figure 4 of:
 
 Zhang J. et al. (2011), *Identification of Hub Genes Related to the Recovery Phase of Irradiation Injury by Microarray and Integrated Gene Network Analysis*, PLOS ONE, DOI: 10.1371/journal.pone.0024680.
 
